@@ -2,4 +2,4 @@
 
 This is an old project from a few years back that I made for fun. I have since abandoned it.
 
-Also, it is broken. In the future I may remake a better version of this program in C/C++ that doesn't have bugs.
+Also, it is broken. In the future I will remake a better version of this program in C/C++.
